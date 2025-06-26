@@ -1,0 +1,8 @@
+//the files which are not in the list
+/.vscode
+/node_modules
+/dist
+*.env
+.env
+.env.*
+
